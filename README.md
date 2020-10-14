@@ -66,7 +66,7 @@ Investment managers and their institutional investors look at the return-to-risk
 
 Doing the following:
 
-1. Visit [Google Sheets](https://docs.google.com/spreadsheets/) and use the in-built Google Finance function to choose 3-5 stocks for your own portfolio.
+1. Visit [Google Sheets](https://docs.google.com/spreadsheets/) and use the in-built Google Finance function to choose 3-5 stocks for the portfolio.
 
 2. Download the data as CSV files and calculate the portfolio returns.
 
@@ -76,8 +76,7 @@ Doing the following:
 
 5. Add the portfolio returns to the DataFrame with the other portfolios and rerun the analysis. 
 
-
-## The analysis include the following:
+The analysis include the following:
 
 - Using all portfolios:
   - The annualized standard deviation (252 trading days) for all portfolios.
